@@ -1,6 +1,6 @@
 name: "KelevrA'S Photography LLC"
 favicon: null
-layout_spectrum: 0.10848293150775135
+layout_spectrum: 1
 typography_spectrum: 0.42719410033896565
 title: "KelevrA'S Photography LLC @ TheGrid"
 cta:
@@ -22,8 +22,8 @@ color:
     - '#ffce00'
     - '#588e9b'
     - '#c5bcbc'
-  brandStrength: 0.982828474836424
-  lightness: 0.1634456494357437
-  saturation: 0.7563260036986321
-  rhythmicContrast: 0.2286455393768847
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
